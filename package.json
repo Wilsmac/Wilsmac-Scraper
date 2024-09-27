@@ -1,0 +1,16 @@
+{
+  "name": "wilsmac-scraper",
+  "version": "2.0.0",
+  "description": "Wilsmac",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilsmac/Wilsmac-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wilsmac/Wilsmac-Scraper/issues"
+  },
+  "homepage": "https://github.com/Wilsmac/Wilsmac-Scraper#readme"
+}
